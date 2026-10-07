@@ -1,0 +1,45 @@
+/**
+ * Slills
+ *
+ * @format
+ */
+
+/**
+ * .skills {
+ *   grid-template-columns: 1fr;
+ *   grid-template-rows: repeat(2, 1fr);
+ *   position: relative;
+ *   padding: 11rem 0;
+ * }
+ *
+ * @format
+ */
+
+.skills__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 5rem;
+}
+
+.skills__title {
+  font-size: var(--font-size-38);
+  font-weight: var(--font-weight-semi-bold);
+}
+
+.skills__experience {
+  font-size: var(--font-size-20);
+}
+
+.skills__item {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: var(--transition-timing);
+  user-select: none;
+}
+
+.skills__item:hover {
+  text-shadow: 0 0 2px var(--color-green);
+}
+
+/* End Skills */
