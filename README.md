@@ -30,4 +30,4 @@ A clean, responsive, and pixel-perfect implementation of a challenge from [Front
 ## 👤 Author
 
 - **Name:** Mohamed Abdelkader
-- **GitHub:** [Eng-Mohamed-Abdelkader](301322447+Eng-Mohamed-Abdelkader@users.noreply.github.com.)
+- **GitHub:** [Eng-Mohamed-Abdelkader](https://github.com/Eng-Mohamed-Abdelkader)
